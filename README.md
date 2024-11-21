@@ -12,7 +12,10 @@
 docker push 7ras0tresh/dit-test:v1
 docker run -p 8000:8000 7ras0tresh/dit-test:v1
 ```
-
+Документация будет доступна по ссылке
+```
+http://0.0.0.0:8000/docs
+```
 
 Примеры /matrix_operations
 
